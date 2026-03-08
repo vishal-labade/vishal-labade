@@ -12,4 +12,4 @@ Experimentation Platform — CUPED / DiD / A/B testing decision framework
 NYC TLC Forecasting — Demand modeling and product analytics
 
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/95f488d2-7e5d-461f-9393-d322fd609324" />
+<img width="512" height="768" alt="image" src="https://github.com/user-attachments/assets/95f488d2-7e5d-461f-9393-d322fd609324" />
