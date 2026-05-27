@@ -13,3 +13,5 @@ NYC TLC Forecasting — Demand modeling and product analytics
 
 
 <img width="512" height="768" alt="image" src="https://github.com/user-attachments/assets/95f488d2-7e5d-461f-9393-d322fd609324" />
+
+**Developed iteratively on a private Forgejo instance. This repository reflects the stable, documented version of the work.**
